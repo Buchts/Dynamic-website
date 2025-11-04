@@ -1,4 +1,4 @@
 # Dynamic-website
 
 
-something dynamic
+Something dynamic
